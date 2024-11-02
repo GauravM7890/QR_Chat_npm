@@ -1,4 +1,4 @@
-# Qr_chat_npm
+# Qr_Connect_chat
 
 ## Start the project from `commit 289384f` as the current builds are in development and mostly broken.
 
